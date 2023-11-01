@@ -30,5 +30,5 @@ Here, I have organized notes based on the domains and topics covered in the AWS 
 Hands-on labs related to different AWS services and scenarios:
 
 - [Horizontal Scaling of EC2 instances using an ASG with an ALB](./labs/s3.md)
-- [EC2 Lab Exercises](./labs/ec2.md)
-- [VPC Lab Exercises](./labs/vpc.md)
+- [Decoupled Backend Architecture Using Lambda, SQS, and DynamoDB](./labs/ec2.md)
+- [Build and Monitor a Resilient System Architecture Using EC2, RDS Multi-AZ, CloudWatch, and SNS](./labs/vpc.md)
