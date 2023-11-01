@@ -29,6 +29,6 @@ Here, I have organized notes based on the domains and topics covered in the AWS 
 
 Hands-on labs related to different AWS services and scenarios:
 
-- [S3 Lab Exercises](./labs/s3.md)
+- [Horizontal Scaling of EC2 instances using an ASG with an ALB](./labs/s3.md)
 - [EC2 Lab Exercises](./labs/ec2.md)
 - [VPC Lab Exercises](./labs/vpc.md)
